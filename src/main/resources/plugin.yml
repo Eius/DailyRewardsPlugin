@@ -1,0 +1,8 @@
+name: DailyRewardsPlugin
+version: '1.0-SNAPSHOT'
+main: net.eiusus.dailyRewardsPlugin.DailyRewardsPlugin
+api-version: '1.21'
+commands:
+  reward:
+    usage: /<command>
+    description: "Gets the daily reward"
